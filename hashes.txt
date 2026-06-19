@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deseo encarcelado
+
+This log tracks the cryptographic history and versioning for the song **Deseo encarcelado** (deseo-encarcelado).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T03:57:06.150447 | `v1` | `238057f6b17397a7094b725a54998af82bfd758d2ff1f59729c79fe055a3162d` | `9cca841d012df868d6602315056bc21c176a3ad17c9e0b7ec2aa694d5eaf46f2` | `2026-06-20_deseo-encarcelado-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

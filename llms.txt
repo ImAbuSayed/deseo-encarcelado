@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-encarcelado/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Deseo encarcelado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-encarcelado/) |
+| **Get License** | [Music Rights & Licensing for Deseo encarcelado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-encarcelado/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Deseo encarcelado, late en mi piel
+> Tu cuerpo es fuego, no puedo ser fiel
+> A esta obsesión que me hace enloquecer
+> Baby, esta noche te voy a tener
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `238057f6b17397a7094b725a54998af82bfd758d2ff1f59729c79fe055a3162d` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
